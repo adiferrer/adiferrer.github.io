@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+@font-face {
+    font-family: 'Moontime';
+    src: url(fonts/MoonTime-Regular-www.Dfonts.org/MoonTime-Regular.ttf);
+}
+
+body {
+    background-color: #d4a886;
+    color: #145da0;
+}
+
+#responsiveness {
+    position: absolute;
+    left: 50%;
+    top: 47%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+img {
+    height: 150px;
+}
+
+#header {
+    font-family: 'Moontime', script;
+    font-size: 7em;
+    max-width: 600px;
+}
+
+#caption {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+}
